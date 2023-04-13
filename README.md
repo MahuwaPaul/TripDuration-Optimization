@@ -9,4 +9,10 @@ A common problem in the road infrastructure of metropolitan cities around the wo
 # Dataset
 The NYC Taxi and Limousine Commission Trip Record data used in the project, which can be accessed at this URL: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page. The dataset has 11 attributes with 1.5 million trip records in the year 2016. 
 # Data Visualization
-
+DataVisualization.ipynb used for to visualize the data and ﬁgure out the best features to be used for the machine learning model at the next step.
+# Machine Learing
+XGBOOST.ipynb used to predict travel times between pickup and dropoff locations.
+# Ant Colony Optimization
+The ant colony algorithm is a meta-heuristic algorithm whose working method is to simulate the foraging process of ants. We tried to minimize our travel cost by ACO.ipynb with varing different setting of the parameters.
+# Genetic Evolution
+Genetic Evolution is biologically inspired meta-heuristic that takes its steps from the process of evolution. Execution of GE.ipynb for different setting choose the best path for every generation.
