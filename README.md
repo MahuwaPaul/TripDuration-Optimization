@@ -7,7 +7,7 @@ A common problem in the road infrastructure of metropolitan cities around the wo
 4. xgboost
 5. matplotlib
 
-Our coding was done in an online environment Collaboratory or “Colab” which is a free Jupyter Notebook environment that runs entirely in the cloud. In “Colab” the Jupyter Notebook, the above requirements already privided so we don't need to install anything separately.
+Our coding was done in an online environment Colaboratory or “Colab” which is a free Jupyter Notebook environment that runs entirely in the cloud. In “Colab” the Jupyter Notebook, the above requirements already privided so we don't need to install anything separately.
 # Dataset
 The NYC Taxi and Limousine Commission Trip Record data used in the project, which can be accessed at this URL: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page. The dataset has 11 attributes with 1.5 million trip records in the year 2016. 
 # Data Visualization
